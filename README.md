@@ -1,4 +1,4 @@
-## Postman -> Ferramenta usada para a API 
+# Postman -> Ferramenta usada para a API 
 
-# Instale o Flask:
+## Instale o Flask:
 `pip install flask`
