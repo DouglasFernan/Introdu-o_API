@@ -1,4 +1,4 @@
-# Postman -> Ferramenta usada para a API's
+# Postman -> Ferramenta usada para a API'ss
 
 ## Instale o Flask:
 
